@@ -31,6 +31,7 @@ Users should be able to:
 - HTML5
 - CSS3
 - Flexbox
+
 ## Author
 
 - Frontend Mentor - [@Teiko21](https://www.frontendmentor.io/profile/Teiko21)
